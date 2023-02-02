@@ -11,8 +11,7 @@ Connect with me:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-Tool I use:
+Some of my favorite tools:
 <p align="left">
   <a href="https://www.linkedin.com/in/fatima-chawdhury-1a3102a8">
     <img src="https://skillicons.dev/icons?i=atom,vscode,aws,azure,bash,html,css,docker,gitlab,git,mongodb,linux,maven" />
